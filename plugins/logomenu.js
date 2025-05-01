@@ -49,15 +49,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/nMT095YD/nexus-xmd.jpg` },
+                image: { url: `https://i.postimg.cc/4NdSqms8/MidKing.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363288304618280@newsletter',
-                        newsletterName: "NEXUS-𝐗𝐌𝐃  𝐋𝐎𝐆𝐎 𝐌𝐄𝐍𝐔🧸₊",
+                        newsletterJid: '120363347365643318@newsletter',
+                        newsletterName: "Joshuamambo1 NetKing-𝐗𝐌𝐃  𝐋𝐎𝐆𝐎 𝐌𝐄𝐍𝐔🧸₊",
                         serverMessageId: 143
                     }
                 }

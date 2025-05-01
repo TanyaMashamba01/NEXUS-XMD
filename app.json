@@ -1,10 +1,10 @@
 {
   "name": "Nexus-XMD",
-  "description": "Javascript WhatsApp bot made by pkdriller.",
+  "description": "Javascript WhatsApp bot made by Joshuamambo1.",
   "keywords": ["Nexus-XMD"],
   
   
-  "logo": "https://i.imgur.com/jsJSfta.jpeg",
+  "logo": "https://i.postimg.cc/4NdSqms8/MidKing.jpg",
   "repository": "https://github.com/Pkdriller/NEXUS-XMD",
   "succes_url": "/",
 
@@ -19,19 +19,19 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://i.imgur.com/jsJSfta.jpeg"
+      "value": "https://i.postimg.cc/4NdSqms8/MidKing.jpg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
-      "required": false,
-      "value": "> Nexus-XMD IS ACTIVE AND ALIVE⚡"
+      "required": true,
+      "value": "> Joshuamambo1-XMD IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
-      "required": false,
-      "value": "."
+      "required": true,
+      "value": "*"
     },
     
     "MODE": {
@@ -70,7 +70,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -82,32 +82,32 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 sᴇᴇɴ ʙʏ Nexus xᴍᴅ🚀🔥*"
+      "value": "*🎉👀 status viewed by MidKing🚀🔥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "pkdriller"
+      "value": "Joshuamambo1 TelKing 🫡❤️‍🔥"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254785392165"
+      "value": "263777756184"
  },
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ Nexus xᴍᴅ✦"
+      "value": "Joshuamambo1 TelKing🫡❤️‍🔥"
 
       }, 
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -120,7 +120,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦Nexus xᴍᴅ✦*"
+      "value": "*© Subscribe to YouTube™Joshuamambo1*"
     },
 
       "DELETE_LINKS": {
@@ -138,7 +138,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {

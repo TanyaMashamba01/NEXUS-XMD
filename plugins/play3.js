@@ -47,8 +47,8 @@ _Reply to this message with 1 or 2 to download._`;
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363288304618280@newsletter',
-                newsletterName: 'SMART-TECH TRENDS',
+                newsletterJid: '120363347365643318@newsletter',
+                newsletterName: 'JOSHUAMAMBO1-TECH TRENDS',
                 serverMessageId: 143
             }
         };
@@ -148,8 +148,8 @@ _Reply with 1, 2 or 3 to this message to download the format you prefer._`;
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363288304618280@newsletter',
-                newsletterName: 'SMART-TECH TRENDS',
+                newsletterJid: '120363347365643318@newsletter',
+                newsletterName: 'JOSHUAMAMBO1-TECH TRENDS',
                 serverMessageId: 143
             }
         };

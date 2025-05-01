@@ -29,9 +29,9 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://i.ibb.co/W4xhtdW8/nexus-xmd.jpg' }, // Image URL from your request
+            image: { url: 'https://i.postimg.cc/4NdSqms8/MidKing.jpg' }, // Image URL from your request
             caption: `
-╭━〔 *🔥NEXUS-XMD🔥* 〕━┈⊷
+╭━〔 *🔥JOSHUAMAMBO1-XMD🔥* 〕━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -45,8 +45,8 @@ async (conn, mek, m, { from }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363288304618280@newsletter',
-                    newsletterName: 'pkdriller 🪀',
+                    newsletterJid: '120363347365643318@newsletter',
+                    newsletterName: 'Joshuamambo1 Alive',
                     serverMessageId: 143
                 }            
             }
@@ -54,7 +54,7 @@ async (conn, mek, m, { from }) => {
 
         // Send audio as per your request
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/bmb300/NOVA-XMD-DATA/raw/refs/heads/main/KingHans/HansTz.mp3' }, // Audio URL
+            audio: { url: 'https://files.catbox.moe/vpnqp7.mp3' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
